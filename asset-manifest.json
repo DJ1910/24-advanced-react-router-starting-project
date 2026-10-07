@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/24-advanced-react-router-starting-project/frontend/static/css/main.0c477786.css",
+    "main.js": "/24-advanced-react-router-starting-project/frontend/static/js/main.97af6cd9.js",
+    "index.html": "/24-advanced-react-router-starting-project/frontend/index.html",
+    "main.0c477786.css.map": "/24-advanced-react-router-starting-project/frontend/static/css/main.0c477786.css.map",
+    "main.97af6cd9.js.map": "/24-advanced-react-router-starting-project/frontend/static/js/main.97af6cd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c477786.css",
+    "static/js/main.97af6cd9.js"
+  ]
+}
